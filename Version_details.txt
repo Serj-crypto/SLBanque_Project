@@ -1,0 +1,10 @@
+Nouveautes: nettoyage des champs apres une transaction
+
+Limite et points a travailler pour la prochaine version:
+	Une seule fenetre
+	Ne verifie pas le solde avant les retrait et transfert
+	Pas de depot minimum
+	Copie de la base de donnee en memoire
+	La suppression de client ou de compte n'est pas pris en compte
+	Pas de demande d'autentification
+	1 compte par client
